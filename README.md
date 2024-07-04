@@ -24,43 +24,7 @@ The data includes a majority of numerical attributes that help understand the po
 * Model Development - Tried Classification models like Random Forest Classifier and K Nearest Neighbour
 * Model Evaluation - Comparison of different classification models for final selection of the model based on their performance
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-<h2>🖥️ Random Forest Classifier: </h2>
-The Random forest or Random Decision Forest is a supervised Machine learning algorithm used for classification, regression, and other tasks using decision trees.
-The Random forest classifier creates a set of decision trees from a randomly selected subset of the training set. It is basically a set of decision trees (DT) from a randomly selected subset of the training set and then It collects the votes from different decision trees to decide the final prediction.
-
-<h2>📊 K Nearest Neighbor: </h2>
-K-nearest neighbors (KNN) is a type of supervised learning algorithm used for both regression and classification. KNN tries to predict the correct class for the test data by calculating the distance between the test data and all the training points. Then select the K number of points which is closest to the test data. The KNN algorithm calculates the probability of the test data belonging to the classes of ‘K’ training data and class which holds the highest probability will be selected.
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-<h2>✉ Contact me for Data Science Project Collaborations </h2>
 
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shantanuh10/)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shantanuh10)
-[![Resume Badge](https://img.shields.io/badge/resume-0077B5?style=for-the-badge&logo=resume&logoColor=white)](https://drive.google.com/file/d/1py39Zv76lRab9dZAdkSjeYB8A3EkejSW/view?usp=sharing)
 
-<h2> :books: References</h2>
-<ul>
-  <li><p>scikit-learn.org, 'RandomForestClassifier'. [Online].</p>
-      <p>Available: https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html/</p>
-  </li>
-  <li><p>Nima Beheshti, 'Random Forest Classification'. [Online].</p>
-      <p>Available: https://towardsdatascience.com/random-forest-classification-678e551462f5/</p>
-  </li>
-    <li><p>en.wikipedia.org, 'k-nearest neighbors algorithm'. [Online].</p>
-      <p>Available: https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm/</p>
-  </li>
-  <li><p>Sai Patwardhan, 'Simple understanding and implementation of KNN algorithm!'. [Online].</p>
-      <p>Available: https://www.analyticsvidhya.com/blog/2021/04/simple-understanding-and-implementation-of-knn-algorithm//</p>
-  </li>
-  <li><p>Youtube.com, 'K nearest neighbors classification with python code'. [Online].</p>
-      <p>Available: https://www.youtube.com/watch?v=CQveSaMyEwM&ab_channel=codebasics/</p>
-  </li>
-  <li><p>Youtube.com, 'Introduction to Random Forest'. [Online].</p>
-      <p>Available: https://www.youtube.com/watch?v=F9uESCHGjhA&ab_channel=CampusX/</p>
-  </li>
-  
 </ul>
