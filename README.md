@@ -1,7 +1,6 @@
 <h1 align="center"> Company Bankruptcy Prediction </h1>
 
 <p align="center">
-  <img src="Project Files/Bankruptcy.png" width="450px" height="250px">
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
